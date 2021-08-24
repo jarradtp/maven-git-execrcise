@@ -5,5 +5,7 @@ public class Restaurant {
 	private String name;
 	private String address;
 	private int rating;
+  private String nickname;
+
 
 }
